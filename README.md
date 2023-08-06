@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soumya Ranjan Otta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="rigth" alt="coding" width="400" src="(https://github.com/SoumyaOtta/SoumyaOtta/assets/114895981/d06f1480-75e7-437b-85e6-82e5917b05d8)
+<img align="right" alt="coding" width="400" src="https://pin.it/6vPbkNi
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyaotta&label=Profile%20views&color=0e75b6&style=flat" alt="soumyaotta" /> </p>
