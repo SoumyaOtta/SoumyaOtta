@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Soumya Ranjan Otta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software develper from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://pin.it/6vPbkNi
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyaotta&label=Profile%20views&color=0e75b6&style=flat" alt="soumyaotta" /> </p>
 
-- 🌱 I’m currently learning **React,Node js**
+- 🌱 I’m currently learning **Devops**
 
 - 📫 How to reach me **soumyaotta11@gmail.com**
 
